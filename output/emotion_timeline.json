@@ -1,0 +1,18 @@
+[
+    {
+        "time": 2.33,
+        "emotion": "sad"
+    },
+    {
+        "time": 2.67,
+        "emotion": "sad"
+    },
+    {
+        "time": 3.0,
+        "emotion": "sad"
+    },
+    {
+        "time": 4.33,
+        "emotion": "happy"
+    }
+]
